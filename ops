@@ -1,0 +1,141 @@
+#!/bin/bash
+
+
+
+while [ 1 ]
+
+do
+
+                      sleep=.1
+
+                      echo -ne ' ☢ ☢
+
+☢        
+
+          
+
+          
+
+☢
+
+'
+
+                      sleep $sleep
+
+                      echo -ne '\033[5F☢ ☢ ☢
+
+       ☢ 
+
+          
+
+          
+
+☢
+
+'
+
+                      sleep $sleep
+
+                      echo -ne '\033[5F ☢ ☢ 
+
+  ☢☢
+
+          
+
+          
+
+☢
+
+'
+
+                      sleep $sleep
+
+                      echo -ne '\033[5F   ☢    ☢
+
+          
+
+☢  ☢  ☢
+
+          
+
+☢
+
+'
+
+                      sleep $sleep
+
+                      echo -ne '\033[5F☢☢☢☢
+
+          
+
+        ☢☢ 
+
+          
+
+☢
+
+'
+
+                      sleep $sleep
+
+                      echo -ne '\033[5F☢☢☢☢
+
+          
+
+  ☢
+
+          
+
+☢
+
+'
+
+                      sleep $sleep
+
+                      echo -ne '\033[5F☢☢☢☢
+
+          
+
+          
+
+☢  
+
+☢
+
+'
+
+                      sleep $sleep
+
+                      echo -ne '\033[5F☢☢☢☢
+
+          
+
+          
+
+ ☢ 
+
+☢
+
+'
+
+                      sleep $sleep
+
+                      echo -ne '\033[5F☢☢☢☢
+
+          
+
+          
+
+  ☢
+
+☢
+
+'
+
+                      echo -ne '\033[5F'
+
+                      sleep=0.1
+
+
+
+done
