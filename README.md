@@ -1,12 +1,4 @@
-\documentclass{minimal}
-\usepackage[svgnames]{xcolor}
-\usepackage{empheq}
-\begin{document}
-\begin{empheq}[box=\fcolorbox{Green}{White}]{align*}
-a&=b \tag{*}\\
-E&=mc^2 
-\end{empheq}
-\end{document}
+
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@&@@@&@&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&@&@&&&&@@&@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&@&&@@&&&&@@&&&
