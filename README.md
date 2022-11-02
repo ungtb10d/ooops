@@ -46,7 +46,7 @@
 \usepackage{empheq}
 \begin{document}
 \begin{empheq}[box=\fcolorbox{Green}{White}]{align*}
-�����������☢&=☢ \tag{*}\\
+☢&=☢ \tag{*}\\
 E&=mc^2 
 \end{empheq}
 \end{document}
